@@ -6,7 +6,7 @@ This repository currently covers **Chromium**-based Web browsers only (*Chrome*,
 
 However the CSS rules and URL patterns should be able to be used in a Firefox-based Web browser too, as long as you find suitable alternative extensions for Firefix-based browsers.
 
-# Required Chrome extensions
+## Required Chrome extensions
 
 <table>
   <tr>
