@@ -230,6 +230,18 @@ Add the below filter lines to your list of blocked URL patterns in the HTTP Requ
   <tr>
     <td>*://discord.com/api/v*/gifs/trending*</td>
   </tr>
+  <tr>
+    <td>*://discord.com/api/v*/dismissible-content/arbitrate</td>
+  </tr>
+  <tr>
+    <td>*://discord.com/api/v*/storefront/products/skus*</td>
+  </tr>
+  <tr>
+    <td>*://discord.com/api/v*/users/@me/activities/statistics/applications</td>
+  </tr>
+  <tr>
+    <td>*://discord.com/__development/build_overrides</td>
+  </tr>
 </table>
 
 # Done!
